@@ -13,7 +13,7 @@ namespace CompressionStockingApplication
     {
         static void Main(string[] args)
         {
-            // Det virker lidt underligt, at det er en ConsoleInput, der skal oprettes for at koere systemet, men det er saadan det virker//
+            // Det virker lidt underligt, at det er en ConsoleInput, der skal oprettes for at koere systemet, men det er saadan det virker
             ConsoleInput Cinput = new ConsoleInput();   
             
             Console.WriteLine("Compression Stocking Control User Interface");
